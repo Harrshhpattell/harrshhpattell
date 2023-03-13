@@ -1,5 +1,4 @@
-### Hi there 👋
-![Header](https://github.com/Harrshhpattell/harrshhpattell/blob/main/github-header-image%20(1).png?raw=true)
+
 <!--
 **Harrshhpattell/harrshhpattell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
