@@ -24,6 +24,7 @@ I'm passionate about learning new things and staying up-to-date with the latest 
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning MERN stack</p>
+<p>⚡ Fun Fact: I'm a big foodie and love trying new restaurants and cuisines. Some of my favorite foods include sushi, pizza, and tacos. I'm always on the lookout for the next great meal.</p>
 
 ## 💻 Skills
 <p>
