@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 # Hi there <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">, My name is Harsh Patel
 
-<img width="100%" src="https://github.com/Harrshhpattell/harrshhpattell/blob/main/github-header-image%20(1).png?raw=true" alt="my banner">
+<!-- <img width="100%" src="https://github.com/Harrshhpattell/harrshhpattell/blob/main/github-header-image%20(1).png?raw=true" alt="my banner"> -->
+![github-header-image (1)](https://github.com/Harrshhpattell/harrshhpattell/assets/102842153/0002507b-3666-4b4d-b8fb-adc18e64dafe)
 
 # 💫 About Me:
 Hello! I'm Harsh Patel, a 3rd year college student studying Information Technology at Ahmedabad Institute of Technology. My goal is to become a full stack developer and I'm currently working on building my skills in both front-end and back-end development.<br><br>I'm passionate about learning new things and staying up-to-date with the latest technologies and trends in the field. In my free time, I enjoy working on personal projects and contributing to open source software. I believe that collaboration and sharing knowledge are key to building a stronger tech community.
