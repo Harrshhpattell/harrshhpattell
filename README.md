@@ -64,7 +64,9 @@ Hello! I'm Harsh Patel, a 3rd year college student studying Information Technolo
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harrshhpattell&theme=vue&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=harrshhpattell&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=harrshhpattell&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=harrshhpattell&theme=vue&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harrshhpattell&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
