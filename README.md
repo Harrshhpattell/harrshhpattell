@@ -28,7 +28,8 @@ Hello! I'm Harsh Patel, a 3rd year college student studying Information Technolo
 <p>⚡ Fun Fact: I'm a big foodie and love trying new restaurants and cuisines. Some of my favorite foods include pizza, and tacos. I'm always on the lookout for the next great meal.</p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harrshhpattell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshpatell) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harrshhpattell) 
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harrshhpattell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshpatell) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harrshhpattell) -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ea11e377-d6bb-4f40-b9dd-441615e68552/deploy-status)](https://app.netlify.com/sites/central-link-hp/deploys)
 
 # 💻 Tech Stack:
 - LANGUAGES          
