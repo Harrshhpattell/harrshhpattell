@@ -74,6 +74,9 @@ Hello! I'm Harsh Patel, a final year college student studying Information Techno
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harrshhpattell&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=harrshhpattell&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
