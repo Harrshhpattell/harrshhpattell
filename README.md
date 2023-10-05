@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">, My name is Harsh Patel
+# Hi there 👋, My name is Harsh Patel
 
 <!-- <img width="100%" src="https://github.com/Harrshhpattell/harrshhpattell/blob/main/github-header-image%20(1).png?raw=true" alt="my banner"> -->
 ![github-header-image (1)](https://github.com/Harrshhpattell/harrshhpattell/assets/102842153/0002507b-3666-4b4d-b8fb-adc18e64dafe)
@@ -78,7 +78,9 @@ Hello! I'm Harsh Patel, a final year college student studying Information Techno
 ![](https://github-contributor-stats.vercel.app/api?username=harrshhpattell&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)    
+
+[![An image of @harrshhpattell's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harrshhpattell)](https://holopin.io/@harrshhpattell)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harrshhpattell&icon=4&color=6)](https://visitcount.itsvg.in)
