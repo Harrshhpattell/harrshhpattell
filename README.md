@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 # Hi there 👋, My name is Harsh Patel
 
+<img src="./hello.gif" width="150" height="150">
+
 <!-- <img width="100%" src="https://github.com/Harrshhpattell/harrshhpattell/blob/main/github-header-image%20(1).png?raw=true" alt="my banner"> -->
 ![github-header-image (1)](https://github.com/Harrshhpattell/harrshhpattell/assets/102842153/0002507b-3666-4b4d-b8fb-adc18e64dafe)
 
